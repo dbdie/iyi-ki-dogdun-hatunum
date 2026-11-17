@@ -1,0 +1,17 @@
+export const scratchPhotos = [
+  { src: "images/kazi-kazan-1.webp", alt: "Başlarımız yan yana, sıcak ışıkta çekilmiş fotoğraf", position: "50% 49%" },
+  { src: "images/kazi-kazan-2.webp", alt: "Yanağa öpücük verdiğimiz fotoğraf", position: "50% 82%" },
+  { src: "images/kazi-kazan-3.webp", alt: "Sahilde sarıldığımız fotoğraf", position: "50% 33%" }
+];
+
+export const letterPages = [
+  "Sevgilim, hayatım, hayat arkadaşım, eşim, hatunum, karım.\n\nBunlar 2026 yılında hayatıma bu kadar hızlı girmesini beklemediğim hitap şekilleriydi. Gerçekten insanın hiç beklemediği anda mucize gibi gerçekleşebiliyormuş bazı şeyler, sen de benim için o mucizesin. Allah geciktiriyorsa güzelleştiriyordur cümlesi de seninle birlikte anlam kazandı benim için.",
+  "Seninle şu ufacık süreçte bile bir sürü şey yaşadık ama çok şükür senin bana karşı, benim sana karşı çok yoğun olduğumuz bir dönem başladı aramızda. Sabahları çok rahat uyanıyorum, akşamları huzurla uyuyorum çünkü uyurken yanımda sen, uyandığımda yanımda sen varsın, aramızda mesafeler olabilir ama sevginin, kalbinin sıcaklığı o mesafeleri çok kısaltıyor benim için.",
+  "Şu anda sen bunları okurken yanında olmayı çok istedim, bir sürü de plan yaptım ama hiçbir şekilde uyduramadım, senin de kızlarla planını bozmak istemedim. Bu senemiz böyle olsun ama seneye çok güzel şeyler olacağından eminim, belki de seneye doğum gününde nişanlı oluruz kim bilir.",
+  "Allahıma dua ediyorum her gün nasibimdeki kişi sen ol diye, senle ikimiz el ele olduğumuz sürece her şeyin üstesinden gelebileceğimizi biliyorum ve bunu senin de bilmeni istiyorum. Sen benim için artık bir ihtiyaç gibisin, ihtiyaçlar piramidinin temeline seni yerleştirdim, sensiz bir günü bırak seni düşünmediğim bir an bile olmuyor.",
+  "Her şeyi seninle yapmak istememin, seni herkesten kıskanmamın sebebi bu sevgilim, çünkü seni o kadar seviyorum ki kimse seni bu kadar sevemez buna çok eminim. Sanki ben hiç yaşamamışım seni tanıyana dek, hayatıma bambaşka bir renk kattın, böyle şeylerin de böyle sevilebilmenin de mümkün olduğunu gösterdin bana. Bana hayal kurmayı öğrettin ve ben de içerisinde senin olmadığın bir hayal bile kurmadım.",
+  "Senin gözünün içinin güldüğünü gerçekten görebiliyorum ve bu beni inanılmaz mutlu ediyor, sen mutluysan ben de mutluyum, sen mutsuzsan ben de mutsuzum. Yeni yaşın için ben dua ediyorum ve umarım yeni yaşında öncelikle sağlıklı, mutlu ve huzurlu bir hayat yaşarsın. Memur olarak atandığın, atanmasan bile kendi sevdiğin işi yaptığın ve mümkünse ikimizin daha sık görüşebileceği bir yere taşındığın bir iş diliyorum yeni yaşında.",
+  "Sigarayı bıraktığın ve benimle birlikte mutlu çoook uzun ve güzel bir hayat yaşamanı diliyorum. Senin dileklerini de inşallah yarın dinleyeceğim sevgilim. Küçükken yaşayamadığın o çocukluğu sana yaşatabilmek için elimden gelen her şeyi yapacağım, bana çocuklaşmanı, yanımda kendini rahat hissetmeni çok seviyorum. Bu duyguları hiç kaybetmemeni istiyorum ve bunun için gerçekten elimden geleni yapacağım.",
+  "Sen bana yıllar sonra yeniden hayal kurdurttun, ben de bu hayallerin gerçekleşmesi için çabalayacağım, sen elimi tuttuğun sürece biz her şeyin üstesinden gelebiliriz. Seni çok seviyorum Şaykam, seni her şeyden, herkesten çok seviyorum. İyi ki benim sevgilimsin, benim hatunumsun.",
+  "İyi ki hayat seni karşıma çıkarttı, iyi ki senin için çabalamaktan vazgeçmedim ve sen de bizden vazgeçmedin. İyi ki doğmuşsun, iyi ki Bediha annem seni doğurmuş. O doğurmuş Allahta bana yar etmiş.\n\nSeninle bütün ihtimallerde...\n\nİyi ki doğdun Hatunum."
+];
